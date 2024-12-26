@@ -23,7 +23,7 @@ For Linux, we use the brew command to install the raylib library.
 brew install raylib 
 ```
 
-Note, we could directly compile the raylib libary source code from the github repository [https://github.com/raysan5/raylib](https://github.com/raysan5/raylib).
+Note, we could directly compile the raylib library source code from the github repository [https://github.com/raysan5/raylib](https://github.com/raysan5/raylib).
 
 ### installation and setup of VSCode
 For VSCode, we will install the extension called CMake Tools. This extension will help use to comiple the source code using CMake according to the setups in "CMakeLists.txt".
