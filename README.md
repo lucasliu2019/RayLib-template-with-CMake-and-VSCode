@@ -4,7 +4,7 @@ title: Template for RayLib library using CMake in VSCode
 author: Fengyi Liu
 date: 2024-12-24
 ---
-Github: [https://github.com/lucasliu2019/RayLib-template-with-CMake-and-VSCode](https://github.com/lucasliu2019/RayLib-template-with-CMake-and-VSCode).
+Github: [https://github.com/lucasliu2019/RayLib-template-with-CMake-and-VSCode](https://github.com/lucasliu2019/RayLib-template-with-CMake-and-VSCode)
 
 This template uses VSCode for the Raylib library in C/C++, the compilation is done using CMake.
 
